@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+transformers
+datasets
+accelerate
+chromadb
+nest_asyncio
+pyngrok
